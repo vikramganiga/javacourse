@@ -1,0 +1,5 @@
+The interface segregation principle advocates segregating a "fat interface" into smaller and highly cohesive interfaces,known as 
+"role interfaces". 
+
+Each role interface declares one or more methods for a specific behavior.  Thus client implement only required role interface.
+

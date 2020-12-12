@@ -1,0 +1,11 @@
+SOLID
+
+ - Single responsibility class
+ - Open Closed Principle
+ - Liskov substitution principle 
+    Object in a program would be replaceable with instances of their subtypes without altering correctness
+    of the program
+ - Interface Segregation Principle 
+ 	Make client specific interface, not generic one
+ - Dependency Inversion Principle 
+ 

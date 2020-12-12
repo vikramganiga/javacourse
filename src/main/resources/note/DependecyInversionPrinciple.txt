@@ -1,0 +1,6 @@
+Dependency Inversion Principle
+  - avoid tightly coupled code
+
+  High-level modules should not depend on low level module, Both should depend on abstraction 
+  Abstraction should not depend on details, Details should depend on abstractions
+  
